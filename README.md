@@ -13,7 +13,7 @@
 ###
 
 <p align="left">A passionate Frontend Developer | Building Scalable Web Apps with React from Egypt<br><br>👨‍💻 All of my projects are available at 
-<a href="https://re-todolist.netlify.app/">Protfolio</a>
+<a target="blank" href="https://re-todolist.netlify.app/">Protfolio</a>
 </p>
 
 ###
@@ -45,7 +45,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" herf="https://github.com/Amr-Elmadawy" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="facebook logo"  />
   <img width="12" />
