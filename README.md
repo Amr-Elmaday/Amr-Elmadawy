@@ -45,7 +45,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" herf="https://github.com/Amr-Elmadawy" />
+  <a herf="[https://github.com/Amr-Elmadawy](https://www.linkedin.com/in/amr-elmadawy-240a58285?utm_source=share_via&utm_content=profile&utm_medium=member_android)" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  /></a>  
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="facebook logo"  />
   <img width="12" />
